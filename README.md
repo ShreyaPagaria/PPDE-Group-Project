@@ -1,3 +1,3 @@
 # PPDE-Group-Project
-This repository contains files and images regarding the course project of Process Plant Design and Economics on the topic "Methanol Synthesis from syngas"
+This repository contains files and images regarding the course project of Process Plant Design and Economics on the topic "Methanol Synthesis from syngas" with the group members: Karan Thakur and Manish Chouhan.
 
